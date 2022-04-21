@@ -4,7 +4,7 @@ A simple simulation over anylogic and jade over a Multi Agent System for Power R
 - Simulated and built a prototype of a multi-agent system which regulates power generated from wind and energy sources. The simulation was performed over previously generated data.
 - Includes JFreeChart and ApachePOI incorporation with Anylogic to extrapolate and analyze the functioning of the agents in the system, building a prototype multi-agent system for the same using JADE.
 
-**NOTE: This code in this repository is quite old and it is very likely to face multiple dependency issues**
+**NOTE: The code in this repository is quite old. It is very likely to face multiple dependency issues**
 
 #### Usage instruction ####
 - **Anylogic Simulation**: Open and run in anylogic
