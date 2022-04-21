@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE X3D PUBLIC "ISO//Web3D//DTD X3D 3.0//EN" "http://www.web3d.org/specifications/x3d-3.0.dtd">
+<X3D version="3.0" profile="Immersive" xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance" xsd:noNamespaceSchemaLocation="http://www.web3d.org/specifications/x3d-3.0.xsd">
+	<head>
+		<meta name='copyright' content='Copyright (c) AnyLogic North America 2013'/>
+	</head>
+	<Scene>
+		<NavigationInfo headlight="false"
+		                visibilityLimit="0.0"
+		                type='"EXAMINE", "ANY"'
+		                avatarSize="0.25, 1.75, 0.75"
+		                />
+		<Background DEF="WO_World"
+		            groundColor="0.051 0.051 0.051"
+		            skyColor="0.051 0.051 0.051"
+		            />
+		<Transform 
+		           translation="2.75 -1.6500001 0"
+		           scale="1.1 1.1 1.1"
+		           rotation="0.000000 0.707107 0.707107 3.141593"
+		           >
+			<Transform DEF="group_0_004_TRANSFORM"
+			           translation="3.149606 0.000000 0.000000"
+			           scale="1.000000 1.000000 1.000000"
+			           rotation="-0.000000 0.707107 0.707107 3.141593"
+			           >
+				<Transform DEF="group_0_004_ifs_TRANSFORM"
+				           translation="0.000000 -0.000000 -0.000000"
+				           scale="1.000000 1.000000 1.000000"
+				           rotation="0.000000 0.000000 0.000000 0.000000"
+				           >
+					<Group DEF="group_ME_ID33">
+						<Shape>
+							<Appearance>
+								<Material DEF="MA_material_12"
+								          diffuseColor="0.988 0.914 0.804"
+								          specularColor="0.401 0.401 0.401"
+								          emissiveColor="0.000 0.000 0.000"
+								          ambientIntensity="0.333"
+								          shininess="0.098"
+								          transparency="0.0"
+								          />
+							</Appearance>
+							<IndexedFaceSet solid="true"
+							                coordIndex="0 1 2 -1 1 0 3 -1 "
+							                >
+								<Coordinate DEF="coords_ME_ID33"
+								            point="2.755905 0.556777 11.071386 0.393701 0.278389 10.792997 2.755905 0.278389 10.792997 0.393701 0.556777 11.071386 "
+								            />
+							</IndexedFaceSet>
+						</Shape>
+					</Group>
+				</Transform>
+			</Transform>
+			<Transform DEF="group_0_003_TRANSFORM"
+			           translation="3.149606 0.000000 0.000000"
+			           scale="1.000000 1.000000 1.000000"
+			           rotation="-0.000000 0.707107 0.707107 3.141593"
+			           >
+				<Transform DEF="group_0_003_ifs_TRANSFORM"
+				           translation="0.000000 -0.000000 -0.000000"
+				           scale="1.000000 1.000000 1.000000"
+				           rotation="0.000000 0.000000 0.000000 0.000000"
+				           >
+					<Group DEF="group_ME_ID25">
+						<Shape>
+							<Appearance>
+								<Material DEF="MA_material_6"
+								          diffuseColor="0.000 0.655 1.000"
+								          specularColor="0.401 0.401 0.401"
+								          emissiveColor="0.000 0.000 0.000"
+								          ambientIntensity="0.333"
+								          shininess="0.098"
+								          transparency="0.0"
+								          />
+							</Appearance>
+							<IndexedFaceSet solid="true"
+							                coordIndex="0 1 2 -1 1 0 3 -1 "
+							                >
+								<Coordinate DEF="coords_ME_ID25"
+								            point="2.755905 0.835166 11.349774 0.393701 2.083816 12.598425 0.393701 0.835166 11.349774 2.755905 2.083816 12.598425 "
+								            />
+							</IndexedFaceSet>
+						</Shape>
+					</Group>
+				</Transform>
+			</Transform>
+			<Transform DEF="group_0_002_TRANSFORM"
+			           translation="3.149606 0.000000 0.000000"
+			           scale="1.000000 1.000000 1.000000"
+			           rotation="-0.000000 0.707107 0.707107 3.141593"
+			           >
+				<Transform DEF="group_0_002_ifs_TRANSFORM"
+				           translation="0.000000 -0.000000 -0.000000"
+				           scale="1.000000 1.000000 1.000000"
+				           rotation="0.000000 0.000000 0.000000 0.000000"
+				           >
+					<Group DEF="group_ME_ID17">
+						<Shape>
+							<Appearance>
+								<Material DEF="MA_material"
+								          diffuseColor="0.318 0.318 0.318"
+								          specularColor="0.401 0.401 0.401"
+								          emissiveColor="0.000 0.000 0.000"
+								          ambientIntensity="0.333"
+								          shininess="0.098"
+								          transparency="0.0"
+								          />
+							</Appearance>
+							<IndexedFaceSet solid="true"
+							                coordIndex="0 1 2 -1 1 0 3 -1 4 5 6 -1 5 4 7 -1 5 7 8 -1 8 7 9 -1 6 10 11 -1 10 6 5 -1 11 10 9 -1 11 9 7 -1 12 13 14 -1 13 12 15 -1 16 17 18 -1 17 16 19 -1 17 19 20 -1 20 19 21 -1 21 19 22 -1 22 19 23 -1 18 24 25 -1 24 18 17 -1 24 17 26 -1 24 26 27 -1 25 24 23 -1 25 23 19 -1 21 27 26 -1 27 21 22 -1 28 29 30 -1 29 28 31 -1 32 33 34 -1 33 32 35 -1 "
+							                >
+								<Coordinate DEF="coords_ME_ID17"
+								            point="0.000000 2.362205 12.876814 3.149606 2.640593 12.598425 0.000000 2.640593 12.598425 3.149606 2.362205 12.876814 0.000000 2.640593 12.598425 1.181102 1.853192 11.811023 0.000000 0.278389 10.236220 3.149606 2.640593 12.598425 1.968504 1.853192 11.811023 1.968504 1.065790 11.023622 1.181102 1.065790 11.023622 3.149606 0.278389 10.236220 0.000000 2.362205 12.876814 0.000000 0.278389 10.236220 0.000000 0.000000 10.514608 0.000000 2.640593 12.598425 0.000000 0.000000 10.514608 0.393701 0.278389 10.792997 0.000000 2.362205 12.876814 3.149606 0.000000 10.514608 2.755905 0.278389 10.792997 2.755905 0.556777 11.071386 2.755905 0.835166 11.349774 2.755905 2.083816 12.598425 0.393701 2.083816 12.598425 3.149606 2.362205 12.876814 0.393701 0.556777 11.071386 0.393701 0.835166 11.349774 3.149606 0.278389 10.236220 3.149606 2.362205 12.876814 3.149606 0.000000 10.514608 3.149606 2.640593 12.598425 3.149606 0.000000 10.514608 0.000000 0.278389 10.236220 3.149606 0.278389 10.236220 0.000000 0.000000 10.514608 "
+								            />
+							</IndexedFaceSet>
+						</Shape>
+					</Group>
+				</Transform>
+			</Transform>
+			<Transform DEF="group_0_001_TRANSFORM"
+			           translation="3.149606 0.000000 0.000000"
+			           scale="1.000000 1.000000 1.000000"
+			           rotation="-0.000000 0.707107 0.707107 3.141593"
+			           >
+				<Transform DEF="group_0_001_ifs_TRANSFORM"
+				           translation="0.000000 -0.000000 -0.000000"
+				           scale="1.000000 1.000000 1.000000"
+				           rotation="0.000000 0.000000 0.000000 0.000000"
+				           >
+					<Group DEF="group_ME_ID11">
+						<Shape>
+							<Appearance>
+								<Material DEF="MA_material_11"
+								          diffuseColor="0.788 0.788 0.788"
+								          specularColor="0.401 0.401 0.401"
+								          emissiveColor="0.000 0.000 0.000"
+								          ambientIntensity="0.333"
+								          shininess="0.098"
+								          transparency="0.0"
+								          />
+							</Appearance>
+							<IndexedFaceSet solid="true"
+							                coordIndex="0 1 2 -1 1 0 3 -1 4 5 6 -1 5 4 7 -1 8 9 10 -1 9 8 11 -1 12 13 14 -1 13 12 15 -1 "
+							                >
+								<Coordinate DEF="coords_ME_ID11"
+								            point="1.968504 1.065790 11.023622 1.181102 1.065790 0.393701 1.968504 1.065790 0.393701 1.181102 1.065790 11.023622 1.968504 1.065790 0.393701 1.968504 1.853192 11.811023 1.968504 1.065790 11.023622 1.968504 1.853192 0.393701 1.181102 1.853192 11.811023 1.181102 1.065790 0.393701 1.181102 1.065790 11.023622 1.181102 1.853192 0.393701 1.181102 1.853192 11.811023 1.968504 1.853192 0.393701 1.181102 1.853192 0.393701 1.968504 1.853192 11.811023 "
+								            />
+							</IndexedFaceSet>
+						</Shape>
+					</Group>
+				</Transform>
+			</Transform>
+			<Transform DEF="group_0_TRANSFORM"
+			           translation="3.149606 0.000000 0.000000"
+			           scale="1.000000 1.000000 1.000000"
+			           rotation="-0.000000 0.707107 0.707107 3.141593"
+			           >
+				<Transform DEF="group_0_ifs_TRANSFORM"
+				           translation="0.000000 -0.000000 -0.000000"
+				           scale="1.000000 1.000000 1.000000"
+				           rotation="0.000000 0.000000 0.000000 0.000000"
+				           >
+					<Group DEF="group_ME_ID3">
+						<Shape>
+							<Appearance>
+								<Material USE="MA_material_11" />
+							</Appearance>
+							<IndexedFaceSet solid="true"
+							                coordIndex="0 1 2 -1 1 0 3 -1 4 5 6 -1 5 4 7 -1 8 9 10 -1 9 8 11 -1 12 13 14 -1 13 12 15 -1 13 15 16 -1 16 15 17 -1 14 18 19 -1 18 14 13 -1 19 18 17 -1 19 17 15 -1 20 21 22 -1 21 20 23 -1 24 25 26 -1 25 24 27 -1 "
+							                >
+								<Coordinate DEF="coords_ME_ID3"
+								            point="0.000000 2.640593 0.393701 0.000000 0.278389 0.000000 0.000000 0.278389 0.393701 0.000000 2.640593 0.000000 3.149606 2.640593 0.000000 0.000000 0.278389 0.000000 0.000000 2.640593 0.000000 3.149606 0.278389 0.000000 3.149606 0.278389 0.393701 0.000000 0.278389 0.000000 3.149606 0.278389 0.000000 0.000000 0.278389 0.393701 0.000000 0.278389 0.393701 1.181102 1.065790 0.393701 0.000000 2.640593 0.393701 3.149606 0.278389 0.393701 1.968504 1.065790 0.393701 1.968504 1.853192 0.393701 1.181102 1.853192 0.393701 3.149606 2.640593 0.393701 0.000000 2.640593 0.393701 3.149606 2.640593 0.000000 0.000000 2.640593 0.000000 3.149606 2.640593 0.393701 3.149606 2.640593 0.000000 3.149606 0.278389 0.393701 3.149606 0.278389 0.000000 3.149606 2.640593 0.393701 "
+								            />
+							</IndexedFaceSet>
+						</Shape>
+					</Group>
+				</Transform>
+			</Transform>
+		</Transform>
+	</Scene>
+</X3D>
